@@ -1,0 +1,7 @@
+C:\Прога\Tum_lab4\bin\Debug\Tum_lab4.exe.config
+C:\Прога\Tum_lab4\bin\Debug\Tum_lab4.exe
+C:\Прога\Tum_lab4\bin\Debug\Tum_lab4.pdb
+C:\Прога\Tum_lab4\obj\Debug\Tum_lab4.csproj.AssemblyReference.cache
+C:\Прога\Tum_lab4\obj\Debug\Tum_lab4.csproj.CoreCompileInputs.cache
+C:\Прога\Tum_lab4\obj\Debug\Tum_lab4.exe
+C:\Прога\Tum_lab4\obj\Debug\Tum_lab4.pdb
